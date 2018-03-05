@@ -1,0 +1,8 @@
+.login {
+	.active {
+		color: red;
+	}
+	.notActive {
+		color: green;
+	}
+}

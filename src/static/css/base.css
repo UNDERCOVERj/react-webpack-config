@@ -1,0 +1,6 @@
+.demo {
+	.down {
+		color: red;
+		display: flex
+	}
+}
